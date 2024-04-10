@@ -220,5 +220,5 @@ print(f"P-value: {p}")
 ![](./out29.png)
 
 # RESULT:
-       the given data and perform Feature Scaling and Feature Selection process and save the
+the given data and perform Feature Scaling and Feature Selection process and save the
 data to a file is perform successfully
